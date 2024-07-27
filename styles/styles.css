@@ -78,9 +78,9 @@ button:hover svg {
   transform: translateX(50px) scale(1.5);
 }
 
-button:hover {
+/* button:hover {
   transform: rotate(-3deg);
-}
+} */
 
 button:active {
   transform: scale(0.95) rotate(-3deg);
